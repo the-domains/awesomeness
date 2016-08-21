@@ -1,16 +1,14 @@
-typography_spectrum: 0.37575323111377656
+layout_spectrum: 0.03216510685160756
+typography_spectrum: 0.6763417343609035
 color:
-  brandStrength: 0.91363167273812
-  lightness: 0.6718864389695227
-  saturation: 0.15760454488918185
-  rhythmicContrast: 0.5825546346604824
+  brandStrength: 0.2489513149484992
+  lightness: 0.7030772003345191
+  saturation: 0.311769200488925
+  rhythmicContrast: 0.3628563422244042
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.6649663825519383
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Awesomeness
-title: For cool people
-description: Your daily dose of awe!
