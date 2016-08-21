@@ -1,14 +1,14 @@
-layout_spectrum: 0.07363772788085043
-typography_spectrum: 0.6903658318333328
+layout_spectrum: 0.6649663825519383
+typography_spectrum: 0.37575323111377656
 color:
-  brandStrength: 0.09194925613701344
-  lightness: 0.7636342940386385
-  saturation: 0.20384809630922973
-  rhythmicContrast: 0.4842883094679564
+  brandStrength: 0.91363167273812
+  lightness: 0.6718864389695227
+  saturation: 0.15760454488918185
+  rhythmicContrast: 0.5825546346604824
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Awesomeness
