@@ -1,4 +1,3 @@
-layout_spectrum: 0.03216510685160756
 typography_spectrum: 0.6763417343609035
 color:
   brandStrength: 0.2489513149484992
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.03216510685160756
 name: Awesomeness
+title: Cool stuff
