@@ -1,16 +1,14 @@
-typography_spectrum: 0.6763417343609035
+layout_spectrum: 0.07363772788085043
+typography_spectrum: 0.6903658318333328
 color:
-  brandStrength: 0.2489513149484992
-  lightness: 0.7030772003345191
-  saturation: 0.311769200488925
-  rhythmicContrast: 0.3628563422244042
+  brandStrength: 0.09194925613701344
+  lightness: 0.7636342940386385
+  saturation: 0.20384809630922973
+  rhythmicContrast: 0.4842883094679564
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-layout_spectrum: 0.03216510685160756
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Awesomeness
-title: Cool stuff
-description: Your daily awe!
